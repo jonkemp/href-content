@@ -1,3 +1,7 @@
+# Moved
+
+This module has moved and is now available at [https://github.com/jonkemp/inline-css/tree/master/packages/href-content](https://github.com/jonkemp/inline-css/tree/master/packages/href-content). This repository is no longer maintained.
+
 # href-content [![Build Status](https://travis-ci.org/jonkemp/href-content.svg?branch=master)](https://travis-ci.org/jonkemp/href-content) [![Coverage Status](https://coveralls.io/repos/jonkemp/href-content/badge.svg?branch=master&service=github)](https://coveralls.io/github/jonkemp/href-content?branch=master)
 
 [![NPM](https://nodei.co/npm/href-content.png?downloads=true)](https://nodei.co/npm/href-content/)
